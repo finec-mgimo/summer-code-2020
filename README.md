@@ -1,6 +1,6 @@
 # summer-code-2020 @ finec.mgimo.ru
 
-Summer practice in programming and data analysis in economics, finance and related 
+Summer practice in programming and data analysis in economics, finance and related fields
 
 Летний практикум по программированию и анализу данных 
 
@@ -20,91 +20,90 @@ Summer practice in programming and data analysis in economics, finance and relat
 
 Мы знаем, что уровень подготовки в области анализа данных и владения языками 
 программирования у всех очень разный. Кому-то интересно узнать вообще зачем программировать 
-и сложно ли это (и мы хотим показать, что не так уж сложно), а кто-то уже готов 
+и сложно ли это (и мы хотим показать, что не так уж сложно), а кто-то уже почти готов 
 поучаствовать в "боевых", рабочих проектах. Кто-то чувствует себя где-то посередине.
-У кого-то есть свои наработки, про которые интересно рассказать самим.
+У кого-то есть свои наработки, про которые интересно рассказать другим.
 
 Мы организуем цикл занятий и удаленной работы над программными проектами в github/gitlab,
-который позволяет участникам летнего практикума достичь новых результатов.
+который позволит участникам летнего практикума достичь новых результатов и выстроить 
+траектории своего дальнейшего обучения.
 
 
+## О вас / About you
 
-Для практикума важно следующее:
+Что из этого характериует вас? Расскажите нам в анкете.
 
-- Вы заинтересованы самосовершенствоваться, найти свой путь в сфере анализа данных
-в экономике и финансах. Вам интересно сориентироваться в стеке технологий и навыков, 
-чтобы выстроить свою дальнейшую траекторию обучения и работы. 
+1. Вы заинтересованы найти свой путь в сфере анализа данных в экономике и финансах. 
+Вам интересно сориентироваться в стеке технологий и навыков, чтобы выстроить свою дальнейшую 
+траекторию обучения и разобраться в требованиях работодателей. 
 
-- Возможно, у вас есть идея собственного проекта, в котором вам необходима помощь или вы 
+2. У вас есть идея собственного программного проекта, в котором вам необходима помощь, или вы 
 ищете проект, к которому вы сможете присоединиться и поучаствовать в его развитии. 
 
-- Вы готовы рассказать другим участникам о своем опыте программирования, анализа данных 
-и интересах в сфере экономики и финансов, а также других областях ()
+3. Вы готовы рассказать другим участникам о своем опыте программирования, анализа данных 
+и интересах в сфере экономики и финансов, а также в других областях (лингвистика, право).
 
+## Темы (предварительно) / Topics (preliminary)
 
+We are likely to keep just a few topics, based on student interest. 
 
-## Доменная область / Our domain
+### Начальный уровень - entry level:
 
-Programming for data analysis and econometrics, reproducible research. 
-We work mainly in Python, but may touch ob R and Julia. 
+- Обзор открытых источников по обученинию python
+- Индивидуальные консультации по освоению материала - что после `print("Hello, world!")`
+- Проект: система бухгалтерского учета на "чистом питоне"
 
-## Темы / Topics
+### Core skills - before we program:
 
-(adding here)
+- Command line magic - why using a console is important (`#cli`)
+- Version control and collaborative work at Github (Gitlab) for your code and work by issues (`#git`)
+- Work by issues (`#issues`)
+- Markdown, pandoc and documentation (`#md`) + know your text editor (`#editor`)
 
-How to start:
+### Some programming (some knowledge of python assumed):
 
-- `print("Hello, world!")`
-- good next steps (interesting and accessible)
-- choose from learning resources
-
-Core skills:
-
-- Command line magic - why using a console is so important (`#cli`)
-- Version control and collaborative work - use of github/gitlab for your code and work by issues (`#git`)
-- Markdown, pandoc and documentation (`#md`), know your text editor (`#edit`)
+- How to ask a good question on StackOverflow - the secret art of [minimum working example](https://stackoverflow.com/help/minimal-reproducible-example)
 - Jupyter, Google Colab and literate programming (`#notebook`)
+- Python pandas and R dataframes - the common data structures (`#df`)
 
-Advanced:
+### Economic datasets:
 
-- Why CSV and not XLSX, some notes on data serialisation 
-- Python pandas and R dataframes - the basic data structures (`#df`)
-- Data visualisation
-- Web scrapping
+- APIs: FRED, quandl, comtrade and others
+- Almost ready CSVs and XLS files: `weo`, `boo`, Rosstat
+- Data scrapping
+- Where else to look for data (sensors, experiments)
+
+### Finec projects:
+
+- the web finec.mgimo.ru page
+- listing of economic statistics / API
+- the Telegram chatbot (private)
+
+### Advanced skills:
+
 - Unit tests and continious integration - make use of a remote machine.  
 - Scientific citations - making your bibliography list shine and work for you
 - Modern python tools for project packaging
 
-Economic data:
+### Related areas:
 
-- FRED (macro)
-- corporate data
-- world trade
-- real-time data
+- NLP (linguistics)
+- Law
 
-Border lines:
+### Upon request:
 
-- Agile and project management
+- Data visualisation
+- Business intelligence
+- Agile workflows and project management
 - IT architecture
-- NLP (linguistsics)
-- Data analysis and law
 
-Demos:
+### Student and other projects: 
 
-- activity monitoring (e.g. transport)
-- trading / market access 
-
-Finec own projects:
-
-- the web finec.mgimo.ru page
-- economic statistics / API
-- Telegram chatbot
-
-Student projects: 
-
-- to add here
+To add here
 
 ## Как это работает / Our workflow
+
+До начала:
 
 - Мы даем примерный состав лекций, тем для занятий и возможных проектов
 - Вы регистрируетесь через форму Google Docs
@@ -119,7 +118,7 @@ Student projects:
 
 ## Сроки / Timeline
 
-С июля по начало сентября 2020.  
+С июля по начало сентября 2020
 
 ## Как присоеднииться // How to join
 
@@ -135,44 +134,3 @@ Student projects:
 - Google meet link 
 - Discord server (?)
 - Telegram channel (?)
-
-# Notes
-
-## Why this is different from other summer classes at MGIMO
-
-- project-based
-- student collaboration via github/discord 
-- mainly MGIMO students and partner organisations
-- free to all who qualify
-
-## Learning objectives
-
-1. map realistic learning trajectory in reproducible data analysis, including risks and obstacles
-2. demonstrate and discuss finished/published work as motivational examples in economic data analysis
-3. get acquainted with personal success stories in data analysis and programming 
-4. delimit 'data science' vs economic analysis vs data analysis in other fields (NLP, law)
-5. try and practice various parts of 'data-model-decision' workflow, bridge gaps between textbook and real world examples
-
-## Teaching Ideas
-
-### Approaches:
-
-- sandbox `->` many, many hardships `->` space rockets 
-- map your learning trajectory (who is the trajectory owner?)
-- data / model / domain application (in business/research)
-- skills outside programming matter (personal/team communication, publicity, management, budgeting)
-- what 'data science' means for finance / economists?
-
-### Core skills:
-
-- CLI vs GUI
-- git is ok (code reuse + remote repos + issues + collaboration + CI)
-- power of plain text (markdown, todo.txt)
-- programming languages - start from print("Hello, world!")
-
-### Avoid:
-
-- 'blackbox' / 'silver bullet' / 'I need just push a button' / hypes (vs small wins) 
-- overextended vendor promises ('Nobody gets fired for buying IBM')
-- gatekeepers (everything is so hard)
-- scams, overpromising (everything is easy)
