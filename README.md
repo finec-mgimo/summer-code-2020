@@ -123,14 +123,6 @@ To add here
 ## Как присоеднииться // How to join
 
 - Написать личное мотивационное письмо - что вы хотите изучить 
-- Link to Google form
-- Weekly lectures
-- Project signup
-- Project progress
-- Final presentations
-
-##  Resources
-
-- Google meet link 
-- Discord server (?)
-- Telegram channel (?)
+  и над каким проектом вы бы хотели поработать в области экономики,
+  финансов или смежных сферах.
+  
